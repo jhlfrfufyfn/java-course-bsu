@@ -1,0 +1,159 @@
+сент. 30, 2020 3:53:39 PM com.bsu.Main main
+INFO: Program started: 2020-09-30 at 15:53:39 MSK
+
+сент. 30, 2020 4:01:12 PM com.bsu.Main main
+FINE: Program started: 2020-09-30 at 16:01:12 MSK
+
+сент. 30, 2020 4:01:21 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: Freezers, companies found: 0
+
+сент. 30, 2020 4:01:42 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: Ulyapshaceli, companies found: 0
+
+сент. 30, 2020 4:01:50 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: death, companies found: 1
+
+сент. 30, 2020 4:02:02 PM com.bsu.Main queryCycle
+FINE: Query 2, branch: Ulyapshaceli, companies found: 1
+
+сент. 30, 2020 4:02:09 PM com.bsu.Main queryCycle
+FINE: Query 1, short name: atl, companies found: 0
+
+сент. 30, 2020 4:02:44 PM com.bsu.Main main
+FINE: Program started: 2020-09-30 at 16:02:44 MSK
+
+сент. 30, 2020 4:02:52 PM com.bsu.Main queryCycle
+FINE: Query 5, employee numbers: 10 , 100, companies found: 0
+
+сент. 30, 2020 4:02:55 PM com.bsu.Main queryCycle
+FINE: Query 5, employee numbers: 100 , 10000, companies found: 2
+
+сент. 30, 2020 4:03:25 PM com.bsu.Main queryCycle
+FINE: Query 2, branch: Star destroyers, companies found: 1
+
+сент. 30, 2020 4:09:38 PM com.bsu.Main main
+FINE: Program started 
+сент. 30, 2020 4:09:49 PM com.bsu.Main queryCycle
+FINE: Query 2, branch: FREEZERS, companies found: 1
+
+сент. 30, 2020 4:09:59 PM com.bsu.Main queryCycle
+FINE: Query 1, short name: bEl+Az, companies found: 0
+
+сент. 30, 2020 4:41:23 PM com.bsu.Main main
+FINE: Program started 
+сент. 30, 2020 4:41:41 PM com.bsu.Main main
+FINE: Program started 
+сент. 30, 2020 4:42:03 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: death, companies found: 1
+
+сент. 30, 2020 4:42:15 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: freezers, companies found: 0
+
+сент. 30, 2020 4:42:39 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: death, companies found: 1
+
+сент. 30, 2020 4:42:56 PM com.bsu.Main queryCycle
+FINE: Query 4, dates: 01-01-1900 , 01-01-2000, companies found: 0
+
+сент. 30, 2020 8:03:51 PM com.bsu.Main main
+FINE: Program started 
+сент. 30, 2020 8:04:21 PM com.bsu.Main queryCycle
+FINE: Query 1, short name: , companies found: 1
+
+сент. 30, 2020 8:05:03 PM com.bsu.Main main
+FINE: Program started 
+сент. 30, 2020 8:05:10 PM com.bsu.Main queryCycle
+FINE: Query 1, short name: leb_az, companies found: 1
+
+сент. 30, 2020 8:05:15 PM com.bsu.Main queryCycle
+FINE: Query 1, short name: bel_az, companies found: 1
+
+сент. 30, 2020 8:05:21 PM com.bsu.Main queryCycle
+FINE: Query 1, short name: BEL+AZ, companies found: 0
+
+сент. 30, 2020 8:05:28 PM com.bsu.Main queryCycle
+FINE: Query 2, branch: FreeseRS, companies found: 0
+
+сент. 30, 2020 8:05:38 PM com.bsu.Main queryCycle
+FINE: Query 3, activity type: FreeSeRS, companies found: 0
+
+сент. 30, 2020 8:05:59 PM com.bsu.Main queryCycle
+FINE: Query 4, dates: 01-01-1920 , 01-01-1960, companies found: 0
+
+сент. 30, 2020 8:06:06 PM com.bsu.Main queryCycle
+FINE: Query 5, employee numbers: 1000 , 10000, companies found: 2
+
+сент. 30, 2020 8:09:15 PM com.bsu.Main main
+FINE: Program started 
+сент. 30, 2020 8:09:38 PM com.bsu.Main queryCycle
+FINE: Query 4, dates: 01-01-1995 , 01-10-2200, companies found: 0
+
+окт. 01, 2020 9:13:22 AM com.bsu.Main main
+FINE: Program started 
+
+окт. 05, 2020 4:48:54 PM com.bsu.Main main
+FINE: Program started 
+
+окт. 07, 2020 11:05:51 PM com.bsu.Main main
+FINE: Program started 
+
+окт. 07, 2020 11:10:25 PM com.bsu.Main main
+FINE: Program started 
+
+окт. 07, 2020 11:10:32 PM com.bsu.Main writeQueryResultToLogFile
+FINE: Query 1, short name: bel+az, companies found: 0
+
+окт. 07, 2020 11:11:18 PM com.bsu.Main main
+FINE: Program started 
+
+окт. 07, 2020 11:12:41 PM com.bsu.Main writeQueryResultToLogFile
+FINE: Query 1, short name: bel+az, companies found: 0
+
+нояб. 07, 2020 4:55:16 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 4:59:04 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:01:06 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:07:01 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:07:07 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:07:14 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:09:37 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:09:54 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:12:24 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:16:06 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:16:38 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:16:42 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:17:49 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:20:11 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:21:14 PM com.bsu.Main main
+FINE: Program started 
+
+нояб. 07, 2020 5:22:17 PM com.bsu.Main main
+FINE: Program started 
+

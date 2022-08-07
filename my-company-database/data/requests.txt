@@ -1,0 +1,3 @@
+SELECT * FROM company_table WHERE shortName == bel+az
+SELECT shortName name webPage FROM company_table WHERE employeeNumber > 1500 AND employeeNumber < 30000
+SELECT * FROM company_table WHERE activityType == Freezer_making OR activityType == Kaliy_mining
